@@ -49,5 +49,5 @@ npm run dev
 ```
 Para importar tasks via CSV:
 ```bash
-node src/streams/read-csv-file.js
+npm run csv
 ```
